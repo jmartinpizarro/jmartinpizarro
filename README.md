@@ -2,7 +2,7 @@
 A passionate Computer Science and Engineering student who loves web development and cybersecurity
 
 # Projects currently developing
-- Solar System Simulator: https://github.com/jmartinpizarro/solar-system-simulator
+- Improving FrontEnd skills: watch my repos to watch them
 
 
 ## 🌐 Socials:

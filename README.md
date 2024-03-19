@@ -1,6 +1,9 @@
 # 💫 About Me:
 A passionate Computer Science and Engineering student who loves web development and cybersecurity
 
+My Portfolio:
+https://jmpdevportfolio.netlify.app/
+
 # Projects currently developing
 - Improving FrontEnd skills: watch my repos to watch them
 

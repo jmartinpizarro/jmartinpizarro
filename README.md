@@ -5,7 +5,7 @@ My Portfolio:
 https://jmpdevportfolio.netlify.app/
 
 # Projects currently developing
-- Improving FrontEnd skills: watch my repos to watch them
+- Improving FrontEnd skills: watch my repos to discover them
 
 
 ## 🌐 Socials:

@@ -5,7 +5,7 @@ My Portfolio:
 https://jmpdevportfolio.netlify.app/
 
 Here's my Youtube's channel:
-https://www.youtube.com/channel/UCpgjtsFoG4C7RTjL6XH4tMQ
+https://www.youtube.com/@jmpcodedev
 
 # Projects currently developing
 - Improving web development skills: watch my repos to discover them

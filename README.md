@@ -2,7 +2,7 @@
 A passionate Computer Science and Engineering student who loves web development and cybersecurity. Also a content creator.
 
 My Portfolio:
-https://jmpdevportfolio.netlify.app/
+https://jmartinpizarro.dev
 
 Here's my Youtube's channel:
 https://www.youtube.com/@jmpcodedev

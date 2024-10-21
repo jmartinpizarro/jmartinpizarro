@@ -1,3 +1,5 @@
+> Yo moriré. Tú morirás. Todos moriremos y el universo seguirá adelante sin darle importancia. Lo único que tenemos es ese grito al viento, nuestra forma de vivir. Nuestra forma de avanzar. Y nuestra forma de mantenernos en pie antes de caer.
+
 # About Me:
 A passionate Computer Science and Engineering student who loves web development and artificial intelligence. Also a content creator.
 

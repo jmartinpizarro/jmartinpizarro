@@ -7,7 +7,7 @@ My Portfolio:
 https://jmartinpizarro.dev
 
 Here's my Youtube's channel:
-https://www.youtube.com/@jmpcodedev
+https://www.youtube.com/@jmartinpizarro
 
 # Projects currently developing
 - Currently developing a backend boilerplate made on Flask and MariaDB

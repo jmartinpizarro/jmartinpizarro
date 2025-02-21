@@ -1,7 +1,7 @@
 > Yo moriré. Tú morirás. Todos moriremos y el universo seguirá adelante sin darle importancia. Lo único que tenemos es ese grito al viento, nuestra forma de vivir. Nuestra forma de avanzar. Y nuestra forma de mantenernos en pie antes de caer.
 
 # About Me:
-A passionate Computer Science and Engineering student who loves ML and low-level programming. Also a content creator.
+A passionate Computer Science and Engineering student who loves Heuristics and Optimization, ML and low-level programming. Also a content creator.
 
 My Portfolio:
 https://jmartinpizarro.dev
@@ -11,8 +11,9 @@ https://www.youtube.com/@jmartinpizarro
 
 # Projects currently developing
 - Developing a Three Bodies Problem simulation!
-- Yyp, low-level programming is my thing.
+- Yup, low-level programming is my thing.
 - Learning about Data Science and AI!!
+- Beam-Search Algorithm: I'm going for u.
 
 ## Tech Stack
 

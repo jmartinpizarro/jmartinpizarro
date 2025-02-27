@@ -10,7 +10,6 @@ Here's my Youtube's channel:
 https://www.youtube.com/@jmartinpizarro
 
 # Projects currently developing
-- Developing a Three Bodies Problem simulation!
 - Yup, low-level programming is my thing.
 - Learning about Data Science and AI!!
 - Beam-Search Algorithm: I'm going for u.

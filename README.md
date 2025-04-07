@@ -11,7 +11,7 @@ A passionate Computer Science and Engineering student who loves Heuristics and O
 
 ## Projects currently developing
 - EVE Pathfinding solver using A* and other heuristics functions
-- MAFP Problem Solver
+- Researching about heuristics and pathfinding problems
 - AI, ML and Neural Networks
 - Beam-Search Algorithm: I'm going for u.
 - Yup, low-level programming is my thing.

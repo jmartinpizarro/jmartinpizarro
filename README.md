@@ -10,11 +10,9 @@ A passionate Computer Science and Engineering student who loves Heuristics and O
 **My channel? Take a look!** -> [Youtube](https://www.youtube.com/@jmartinpizarro)
 
 ## Projects currently developing
-- EVE Pathfinding solver using A* and other heuristics functions
+- CNNs and A* (and variations) for optimal pathfinding solving problems
 - Researching about heuristics and pathfinding problems
 - AI, ML and Neural Networks
-- Beam-Search Algorithm: I'm going for u.
-- Yup, low-level programming is my thing.
 
 ![](https://raw.githubusercontent.com/jmartinpizarro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jmartinpizarro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
